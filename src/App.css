@@ -1,0 +1,11 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+}
+
+#root {
+  display: grid;
+  grid-gap: 1vw;
+  grid-template-columns: 1fr 1fr 6fr 1fr 1fr;
+  grid-template-rows: 1fr 2fr 6fr 2fr 1fr;
+}

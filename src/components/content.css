@@ -1,0 +1,9 @@
+.content {
+    grid-column: 3;
+    grid-row: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #6699CC;
+  }
+  
